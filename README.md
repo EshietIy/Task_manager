@@ -4,7 +4,7 @@ This project is a Task Management Web-app Built on python webframe work called F
 </div>
 <h3>
 Usage
-<h3/>
+</h3>
 <div>
 Clone this repo into your local storage git clone https://github.com/EshietIy/Task_manager.git
 
