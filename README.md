@@ -1,6 +1,6 @@
-<h1></h1>
+<h1>Task Manager</h1>
 <div>
-This project is a Task Management Web-app Built on python webframe work called FLASK
+This project is a Task Management Web-application Built on python webframe work called FLASK
 </div>
 <h3>
 Usage
